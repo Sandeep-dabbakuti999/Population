@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="peasy-math">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jars/peasy-math.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/G4P.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gluegen-rt-natives-linux-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gluegen-rt-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gluegen-rt-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gluegen-rt-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gluegen-rt-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/grafica.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jogl-all-natives-linux-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jogl-all-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jogl-all-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jogl-all-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jogl-all-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/MathParser.org-mXparser-v.4.4.0-jdk11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/OBJLoader.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/peasycam.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/Shapes3D.jar!/" />
+      <root url="file://$PROJECT_DIR$/../jars/peasycam" />
+      <root url="file://$PROJECT_DIR$/../jars/processing" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../jars/grafica/reference" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jars/MathParser.org-mXparser-v.4.4.0/src/java" />
+      <root url="file://$PROJECT_DIR$/../jars/grafica/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../jars/peasycam" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../jars/processing" recursive="false" />
+  </library>
+</component>
